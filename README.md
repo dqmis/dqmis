@@ -8,9 +8,9 @@ I mostly build things with <img src="https://upload.wikimedia.org/wikipedia/comm
 
 My primary focus is on **machine learning** and **data engineering**, diving deep into understanding the mathematics behind algorithms and applying them to solve real-world problems.
 
-💡 **Publications:**
+📚 **Publications:**
 
-Here's a glimpse of my academic contributions 📚:
+Here's a glimpse of my academic contributions:
 
 1. [**Multi-Modal Adapter for Vision-Language Models** (ECML Workshop)](https://arxiv.org/abs/2409.02958)
 2. [**Challenges and Opportunities in Applying Neural Temporal Point Processes to Large Scale Industry Data** (KDD Undergrad Consortium)](https://www.kdd.org/kdd2022/papers/08_Dominykas.pdf)
