@@ -1,4 +1,4 @@
-### Hello there! <img src="https://media1.tenor.com/m/Tsob5aHiS3UAAAAC/hello-there.gif" alt="" height="20"/>
+### Hello there! 👋
 
 I'm a Software Engineer at **Vinted** and currently pursuing my Master's in Artificial Intelligence at the **University of Amsterdam**.
 
